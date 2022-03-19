@@ -1,0 +1,8 @@
+# Private Files
+*.json
+
+#Environments
+.env
+
+# Private Node Modules
+node_modules/
